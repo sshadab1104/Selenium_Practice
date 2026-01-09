@@ -1,4 +1,4 @@
-package Selenium_001_Basics;
+package Day_1.Selenium_001_Basics;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

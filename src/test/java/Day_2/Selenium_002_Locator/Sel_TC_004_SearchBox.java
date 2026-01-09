@@ -1,4 +1,4 @@
-package Selenium_002_Locator;
+package Day_2.Selenium_002_Locator;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
