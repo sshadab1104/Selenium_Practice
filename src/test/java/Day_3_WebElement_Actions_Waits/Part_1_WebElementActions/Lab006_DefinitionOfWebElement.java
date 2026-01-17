@@ -1,4 +1,4 @@
-package Day_3.Part_1_WebElementActions;
+package Day_3_WebElement_Actions_Waits.Part_1_WebElementActions;
 
 public class Lab006_DefinitionOfWebElement {
     // What is WebElement?

@@ -1,4 +1,4 @@
-package Day_3.Part_3_Practical;
+package Day_3_WebElement_Actions_Waits.Part_3_Practical;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
